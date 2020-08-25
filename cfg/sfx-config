@@ -1,1 +1,2 @@
 SW_VERSION=latest
+bundle_dir=`pwd`/bundle_logs
